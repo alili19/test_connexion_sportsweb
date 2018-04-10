@@ -1,0 +1,22 @@
+/*Page Connexion*/
+
+#pageConnexion{
+	padding-bottom: 3%;
+	padding-top: 2%;
+	background-color:rgb(59, 89, 152);
+}
+
+/*Page Inscription*/
+#pageInscription{
+	padding-bottom: 3%;
+	padding-top: 2%;
+	background-color:rgb(251, 252, 253);
+}
+
+#sexe{
+	padding-bottom: 2%;
+}
+.form-group{
+	margin: 1%;
+}
+
